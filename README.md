@@ -29,5 +29,5 @@
 * `npm run test:ui` - тестирование UI компонентов
 
 ## Дополнительные материалы:
-Документация - https://testing-library.com/docs/react-testing-library/example-intro
-Видео - 
+Документация - https://testing-library.com/docs/react-testing-library/example-intro  
+Видео - https://youtube.com/shorts/yRcvOPREgGg?feature=share
